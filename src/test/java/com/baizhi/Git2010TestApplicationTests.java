@@ -16,4 +16,8 @@ class Git2010TestApplicationTests {
         System.out.println("-------------------");
     }
 
+    public void AddDev(){
+        System.out.println("=============");
+    }
+
 }
