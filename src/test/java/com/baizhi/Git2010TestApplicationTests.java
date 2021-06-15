@@ -13,6 +13,7 @@ class Git2010TestApplicationTests {
 
     public static void main(String[] args) {
         System.out.println("hello wrold!");
+        System.out.println("-------------------");
     }
 
 }
