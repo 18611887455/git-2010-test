@@ -19,6 +19,7 @@ class Git2010TestApplicationTests {
     public void AddDev(){
         System.out.println("=============");
         String str = "abc";
+        int aaa = 123;
     }
 
 }
